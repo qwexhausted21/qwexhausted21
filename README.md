@@ -12,7 +12,7 @@
 ## Мои проекты
 | Проект | Что это | Стек |
 |---|---|---|
-| [tg-bot-zayavki](https://github.com/qwexhausted21/tg-bot) | Telegram-бот для приёма заявок | Python, aiogram |
+| [tg-bot](https://github.com/qwexhausted21/tg-bot) | Telegram-бот для приёма заявок | Python, aiogram |
 | [landing-coffee](ссылка) | Лендинг кофейни (демо) | HTML, CSS, JS |
 | [parser-avito](ссылка) | Парсер объявлений + таблица | Python, requests, BeautifulSoup |
 
