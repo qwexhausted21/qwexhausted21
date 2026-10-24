@@ -14,7 +14,6 @@
 |---|---|---|
 | [tg-bot](https://github.com/qwexhausted21/tg-bot) | Telegram-бот для приёма заявок | Python, aiogram |
 | [coffee-land](https://github.com/qwexhausted21/coffee-land) | Лендинг кофейни (демо) | HTML, CSS, JS |
-| [parser-avito](ссылка) | Парсер объявлений + таблица | Python, requests, BeautifulSoup |
 
 ## Инструменты
 Python · Telegram Bot API · HTML/CSS · Git
