@@ -49,7 +49,7 @@
 
 ### 📈 Немного статистики
 <div align="center">
-  <img src="https://github.com/qwexhausted21/pulse-analytics-dashboard/blob/main/demo.gif?raw=true" width="600" alt="Demo GIF" />
+  <img src="https://github.com/qwexhausted21/pulse-analytics-dashboard/blob/main/demo-v2.gif?raw=true" width="600" alt="Demo GIF" />
 </div>
 
 💬 **Открыт к интересным задачам и заказам! Пишите в Telegram или на Kwork.**
