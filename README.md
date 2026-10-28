@@ -20,8 +20,8 @@
 ---
 
 ### 📫 Как со мной связаться:
-- **Telegram:** [@твой_ник_в_тг](https://t.me/твой_ник_в_тг)
-- **Kwork:** [Ссылка на твой кворк, когда создашь]
-- **Email:** твой_email@mail.ru
+- **Telegram:** [@qwexhausted21](https://t.me/qwexhausted21)
+- **Kwork:** https://kwork.ru/user/qwexhausted
+- **Email:** iladunaev6@gmail.com
 
 💬 **Открыт к интересным задачам и заказам!**
